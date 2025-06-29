@@ -2,7 +2,7 @@ import dynamic from 'next/dynamic'
 
 const NotionPage = dynamic(() => import('@/components/NotionPage'))
 /**
- * 公告
+ * 个人简介
  * @param {*} param0
  * @returns
  */
